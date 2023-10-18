@@ -1,0 +1,12 @@
+3d.el - an Emacs Lisp 3D graphics playground
+
+This is meant to be used as a toy (which may include educational
+purposes): an external renderer followed by conversion from raster
+into ASCII would be much more efficient, and likely it would produce
+better results, while this is in Elisp and hackable.
+
+The API is not stable, and generally this project is neither thought
+through nor prepared carefully: just put together to play with, and
+shared in order for others to possibly play with it as well. Best to
+not use it as a dependency, at least not until some review and
+refactoring.
